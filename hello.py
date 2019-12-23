@@ -1,2 +1,3 @@
 print("Hello welcome to Python class")
-print("hi")
+print("This is the first class for our GitHub")
+
