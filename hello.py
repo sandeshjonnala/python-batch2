@@ -1,3 +1,3 @@
 print("Hello welcome to Python class")
-print("This is the first class for our GitHub")
-
+print("IT's not a demo class")
+print("It is the original flow of class from tdy onwords")
